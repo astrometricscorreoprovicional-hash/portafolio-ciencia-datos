@@ -5,9 +5,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-¡Hola! 👋 Soy [@astrometricscorreoprovisional](https://github.com/astrometricscorreoprovisional)
-
-, un/a apasionado/a de la Ciencia de Datos. Aquí encontrarás proyectos de análisis de datos, visualización, machine learning y más.
+¡Hola! 👋 Soy [@astrometricscorreoprovicional-rgb](https://github.com/astrometricscorreoprovicional-rgb),  
+un/a apasionado/a de la Ciencia de Datos. Aquí encontrarás proyectos de análisis de datos, visualización, machine learning y más.
 
 ---
 
@@ -56,16 +55,15 @@
 
 ## 🔹 Estadísticas de GitHub
 
-![Tu Nombre's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![astrometricscorreoprovicional-rgb's GitHub stats](https://github-readme-stats.vercel.app/api?username=astrometricscorreoprovicional-rgb&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astrometricscorreoprovicional-rgb&layout=compact&theme=radical)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=astrometricscorreoprovicional-rgb&theme=radical)
 
 ---
 
 ## 🔹 Contacto
-- **Email:** tu.email@ejemplo.com  
-- **LinkedIn:** [Tu LinkedIn](#)  
-- **GitHub:** [Tu GitHub](#)  
+- **Email:** astrometrics.correo.provicional@gmail.com  
+- **LinkedIn:** [astrometrics.correo.provicional@gmail.com](https://www.linkedin.com/in/astrometrics-correo-provicional)  
+- **GitHub:** [astrometricscorreoprovicional-rgb](https://github.com/astrometricscorreoprovicional-rgb)
 
 ---
-
-
-
