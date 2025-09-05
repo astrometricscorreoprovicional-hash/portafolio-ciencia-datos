@@ -5,7 +5,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-¡Hola! 👋 Soy [@astrometricscorreoprovicional-rgb](https://github.com/astrometricscorreoprovicional-rgb),  
+¡Hola! 👋 Soy @astrometricscorreoprovicional (https://github.com/astrometricscorreoprovicional-rgb),  
 un/a apasionado/a de la Ciencia de Datos. Aquí encontrarás proyectos de análisis de datos, visualización, machine learning y más.
 
 ---
